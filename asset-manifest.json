@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/VOTO_ONLINE_APP/static/css/main.6f06b933.chunk.css",
+    "main.js": "/VOTO_ONLINE_APP/static/js/main.ad1992c0.chunk.js",
+    "main.js.map": "/VOTO_ONLINE_APP/static/js/main.ad1992c0.chunk.js.map",
+    "runtime-main.js": "/VOTO_ONLINE_APP/static/js/runtime-main.1d66940b.js",
+    "runtime-main.js.map": "/VOTO_ONLINE_APP/static/js/runtime-main.1d66940b.js.map",
+    "static/css/2.ae9f1eb3.chunk.css": "/VOTO_ONLINE_APP/static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.971e5715.chunk.js": "/VOTO_ONLINE_APP/static/js/2.971e5715.chunk.js",
+    "static/js/2.971e5715.chunk.js.map": "/VOTO_ONLINE_APP/static/js/2.971e5715.chunk.js.map",
+    "static/js/3.9620a9ce.chunk.js": "/VOTO_ONLINE_APP/static/js/3.9620a9ce.chunk.js",
+    "static/js/3.9620a9ce.chunk.js.map": "/VOTO_ONLINE_APP/static/js/3.9620a9ce.chunk.js.map",
+    "index.html": "/VOTO_ONLINE_APP/index.html",
+    "static/css/2.ae9f1eb3.chunk.css.map": "/VOTO_ONLINE_APP/static/css/2.ae9f1eb3.chunk.css.map",
+    "static/css/main.6f06b933.chunk.css.map": "/VOTO_ONLINE_APP/static/css/main.6f06b933.chunk.css.map",
+    "static/js/2.971e5715.chunk.js.LICENSE.txt": "/VOTO_ONLINE_APP/static/js/2.971e5715.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d66940b.js",
+    "static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.971e5715.chunk.js",
+    "static/css/main.6f06b933.chunk.css",
+    "static/js/main.ad1992c0.chunk.js"
+  ]
+}
