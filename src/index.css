@@ -5,9 +5,58 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: #4CB8C4;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #3CD3AD, #4CB8C4);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #3CD3AD, #4CB8C4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.contorno{
+  width: 50%;
+}
+
+
+#nav-color {
+  background: #232526;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #414345, #232526);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #414345, #232526); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}  
+  
+
+  .navbar-brand {
+    color: white!important;
+  }
+  #footer  {
+    background: #232526;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #414345, #232526);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #414345, #232526); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color: white;
+  }
+  .padded{
+    padding-top: 20px;
+    padding-bottom: 30px;
+  }
+  .min-padded{
+    padding-top: 1px;
+    padding-bottom: 1px;
+    margin-left: 15px;
+  }
+  .margen{
+    margin: 8px;
+  }
+  .tamano{
+    font-size: 20px;
+  }
+
+/* FRASE  animation*/
+.transparent {
+  color: transparent;
+  font-size: 0rem; }
+
+.name_animation{
+  transition: font-size 0.5s ease, color 1.5s; }
+/* FRASE  animation*/
