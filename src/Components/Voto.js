@@ -294,8 +294,8 @@ export default class Voto extends Component {
                     {contenidoModal}
                     {contenidoModalReporte}
                 </section>
-                <footer id="footer" className="padded">
-                    <div className="container">
+                <footer id="footer">
+                    <div className="container" style={{padding:"50px"}}>
                         <h6 className="text-center"> 2021 - Todos los derechos reservados </h6>
                         <div className="col text-center">
                             <h4 id="name" className="text-center" >
